@@ -112,7 +112,7 @@ final makeListTile = ListTile(
     subtitle: Row(
       children: <Widget>[
         Icon(Icons.linear_scale, color: Colors.yellowAccent),
-        Text(" Teste Intermediario", style: TextStyle(color: Colors.white))
+        Text(" Teste Intermediaria", style: TextStyle(color: Colors.white))
       ],
     ),
     trailing:
